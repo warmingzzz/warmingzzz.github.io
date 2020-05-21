@@ -2,9 +2,9 @@
 layout: post
 title: 'warmingzzz blog'
 date: 2020-5-20
-author: Jekyll
+author: 温
 cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-banner.png'
-tags: jekyll
+tags: 日常
 ---
 
 > 嘻嘻哈哈的一天
@@ -23,4 +23,4 @@ tags: jekyll
 
 ### Video Test
 
-<iframe type="text/html" width="100%" height="385" src="http://www.youtube.com/embed/gfmjMWjn-Xg" frameborder="0"></iframe>
+<iframe type="text/html" width="100%" height="385" src="https://www.bilibili.com/video/BV13i4y147ic" frameborder="0"></iframe>

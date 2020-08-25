@@ -7,17 +7,9 @@ cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-banner.png'
 tags: 日常
 ---
 
-> 嘻嘻哈哈的一天
+>第一篇博客
 
 ### Welcome
 
-习惯压力生活
-
-### 天气
-
-下雨
-
-### 体重
-
-138
+测试
 

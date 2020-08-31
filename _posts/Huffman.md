@@ -14,7 +14,7 @@ tags: 编码
 
 假设现在我们要对下面这句歌词“we will we will r u”进行压缩。
 
-- ![avatar](/../assets/img/Huffman0.jpeg)
+- ![Aaron Swartz]([https://raw.githubusercontent.com/smshen/MarkdownPhotos/master/Res/test.jpg](https://link.zhihu.com/?target=https%3A//raw.githubusercontent.com/smshen/MarkdownPhotos/master/Res/test.jpg))
 
 1、如果是使用ASCII码对这句话编码结果则为：119 101 32 119 105 108 108 32 119 101 32 119 105 108 108 32 114 32 117（十进制表示）。我们可以看出需要19个字节，也就是至少需要152位的内存空间去存储这些数据。
 

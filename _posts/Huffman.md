@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '线程和进程'
-date: 2020-5-20
+date: 2020-8-31
 author: 温
 cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-banner.png'
 tags: 编码

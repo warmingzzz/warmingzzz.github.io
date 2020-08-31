@@ -1,16 +1,15 @@
 ---
 layout: post
-title: '线程和进程'
+title: 'Huffman编码'
 date: 2020-8-31
 author: 温
 cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-banner.png'
 tags: 编码
-
 ---
 
 >第二篇博客
 
-**Huffman****编码**
+Huffman编码
 
 假设现在我们要对下面这句歌词“we will we will r u”进行压缩。
 

@@ -4,7 +4,7 @@ title: '线程和进程'
 date: 2020-5-20
 author: 温
 cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-banner.png'
-tags: 日常
+tags: 面试
 ---
 
 >第一篇博客
